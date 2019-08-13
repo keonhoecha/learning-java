@@ -1,4 +1,4 @@
-package com.company;
+package com.company.multithreading;
 
 class MyNewThread implements Runnable {
     String name;

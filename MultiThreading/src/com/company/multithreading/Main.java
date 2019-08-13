@@ -1,4 +1,4 @@
-package com.company;
+package com.company.multithreading;
 
 class NewThread implements Runnable {
     Thread t;
